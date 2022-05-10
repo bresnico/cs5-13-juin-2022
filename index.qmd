@@ -1,0 +1,162 @@
+---
+title: "Formation FOCUS"
+subtitle: "Séance extraordinaire du comité scientifique no. 5"
+date: "13 juin 2022"
+format:
+  revealjs:
+    theme: [night, custom.scss]
+    logo: img/hep.png
+    transition: slide
+    background-transition: fade
+    incremental: true
+    slide-number: c/t
+    show-slide-number: all
+    scrollable: true
+title-slide-attributes: 
+  data-background-image: "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+---
+
+## Ordre du jour {visibility="uncounted" background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+
+A l'ordre du jour : 
+
+- Accueil
+- Point principal - Thème 4 - contenu, delivrable et modalités
+- Information - affaires courantes
+- Divers
+
+<small>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://bresnico.github.io/phd-8-avril-2022/#1">Les slides de présentation</a> par <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://nicolasbressoud.ch">Nicolas Bressoud</a> sont soumises à une licence <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+</small>
+
+
+## la suite est old
+
+## Accueil {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+
+![Formation FOCUS](https://hepvs.ch/images/FCE/Cours_Oblig/focus%202022-2024_900.jpg)
+
+## Thème 4 {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+
+- Forme
+- Contenu
+- Responsabilités
+- Décision
+
+Extrait du PV
+
+<small>
+
+*Nicolas regarde avec Lionel pour préciser la plus-value du thème 4, expliciter sa complémentarité avec les vignettes cliniques (et pas sa redondance), donner une illustration en termes de délivrables (projet de délivrable réaliste attendu dans le cadre du thème 4 de 11 heures). Le délivrable doit être perçu comme une réelle plus-value dans le paysage professionnel (sans quoi il n’a pas lieu d’exister).*
+
+</small>
+
+## Tarifs horaire {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+
+- Tarif "conférence" --> flexible
+- Tarif "enseignement" --> tarif-horaire selon tabelles HEP-VS mais nombre d'heures modulables
+
+### A définir 
+
+- heures pour la conférence
+- heures pour les teams (et mise en place)
+- heures pour les vignettes cliniques
+
+## Calendrier {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+
+### Source d'information
+[page web de pilotage des dates et horaires](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=15340ec3042649abb533ded3ecbe1a45)
+
+### Rappel de l'enchainement des sessions
+
+Selon concept :
+![](img/schemas.png)
+
+### Validation de la session 1
+
+**Rappels :**
+
+Une session contient 4 thèmes
+
+Chaque thème a 3 parties.
+
+::: {.panel-tabset}
+
+#### Conférences :
+
+
+Collège des Creusets ? Aula de la Tuilerie ?
+
+14h30 - 17h00 (on a tenu compte des trains CFF de et vers St-Maurice)
+
+Les mercredis :
+
+1 : 31 août ou 7 septembre
+
+2 : 26 octobre ou 2 novembre  
+
+3 : 18 janvier ou 25 janvier
+
+4 : 15 mars ou 22 mars
+
+#### Teams :
+
+mardis soirs 17h00 à 19h00
+
+#### vignette clinique
+
+3 à 6 ateliers en fonction du monde.
+
+Une seule option
+
+Ecole de commerce de Martigny ?
+
+17h00 - 19h00 (on a regardé les trains)
+
+Les jeudis : 
+
+1 : 29 septembre
+
+2 : 24 novembre
+
+3 : 16 février 
+
+4 : 20 avril
+
+:::
+
+## Communication {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+
+- Demande de NO GO le 25 avril 2022
+- Obtention d'un GO le 27 avril 2022
+- Publication le 3 mai 2022 via les directions
+- Ouverture des inscriptions le 25 mai 2022
+
+Vitrine de la formation FOCUS : [hepvs.ch](https://hepvs.ch/formation-continue-enseignants/cours-obligatoires/formation-focus)
+
+## Prochaines étapes pour le CS {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+
+- 12 mai : figer les dates de la session 1
+- selon les rythmes et échéances : 
+    - figer les équipes
+    - préparer les contenus
+- Prochaine rencontre du CS :
+    - après la pause estivale 
+    - opérationnel : par Nicolas
+
+## Divers {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+
+## &#x1F64F; Merci !
+
+. . . 
+
+<small>
+Crédits Photo par ordre d'apparition :
+
+[Paul Skorupskas](https://unsplash.com/photos/7KLa-xLbSXA)
+
+Adobe Stock
+</small>
+
+
+
