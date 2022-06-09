@@ -18,146 +18,95 @@ title-slide-attributes:
 
 ## Ordre du jour {visibility="uncounted" background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
-A l'ordre du jour : 
-
 - Accueil
-- Point principal - Thème 4 - contenu, delivrable et modalités
-- Point principal - forme définitive des “vignettes cliniques”
-- Information - affaires courantes
+- Etat des affaires courantes
+- Forme des vignettes cliniques des thèmes 1, 2 et 3
+- Contenus, délivrables (et pédagogie) du thème 4
+- Equivalences
 - Divers
 
-<small>
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://bresnico.github.io/phd-8-avril-2022/#1">Les slides de présentation</a> par <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://nicolasbressoud.ch">Nicolas Bressoud</a> sont soumises à une licence <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
-</small>
+<div style="font-size:18px">
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://bresnico.github.io/cs5-13-juin-2022/#1">Les slides de présentation</a> par <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://nicolasbressoud.ch">Nicolas Bressoud</a> sont soumises à une licence <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+</div>
 
-
-## la suite est old
 
 ## Accueil {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
-![Formation FOCUS](https://hepvs.ch/images/FCE/Cours_Oblig/focus%202022-2024_900.jpg)
+## Etat des affaires courantes {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
-## Thème 4 {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+- Finances
 
-- Forme
-- Contenu
-- Responsabilités
-- Décision
-
-Extrait du PV
-
-<small>
-
-*Nicolas regarde avec Lionel pour préciser la plus-value du thème 4, expliciter sa complémentarité avec les vignettes cliniques (et pas sa redondance), donner une illustration en termes de délivrables (projet de délivrable réaliste attendu dans le cadre du thème 4 de 11 heures). Le délivrable doit être perçu comme une réelle plus-value dans le paysage professionnel (sans quoi il n’a pas lieu d’exister).*
-
-</small>
-
-## Tarifs horaire {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
-
-- Tarif "conférence" --> flexible
-- Tarif "enseignement" --> tarif-horaire selon tabelles HEP-VS mais nombre d'heures modulables
-
-### A définir 
-
-- heures pour la conférence
-- heures pour les teams (et mise en place)
-- heures pour les vignettes cliniques
-
-## Calendrier {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
-
-### Source d'information
-[page web de pilotage des dates et horaires](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=15340ec3042649abb533ded3ecbe1a45)
-
-### Rappel de l'enchainement des sessions
-
-Selon concept :
-![](img/schemas.png)
-
-### Validation de la session 1
-
-**Rappels :**
-
-Une session contient 4 thèmes
-
-Chaque thème a 3 parties.
-
-::: {.panel-tabset}
-
-#### Conférences :
+   - Budget
+   - Démarrage des défraiements
 
 
-Collège des Creusets ? Aula de la Tuilerie ?
+- Préparation des contenus de la session 1
 
-14h30 - 17h00 (on a tenu compte des trains CFF de et vers St-Maurice)
+   - [Dates, lieux, horaires et modalités sont réputés connus](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=f19a70ad82c540cb8b464e4bd34e64b7)
 
-Les mercredis :
+   - Les équipes sont en principe au travail (*sous quelques réserves*)
 
-1 : 31 août ou 7 septembre
+## Forme des vignettes cliniques des thèmes 1, 2 et 3 {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
-2 : 26 octobre ou 2 novembre  
+- But: observer et questionner des "mises en application en contexte valaisan"
+- 2 heures de présentiel (17h00 à 19h00)
+- Tous les participants sur place
+- Collège de l'Abbaye de St-Maurice
+- 6 ateliers (20-25 participants par atelier)
+- Chaque atelier dure 30 min et est donné 3 fois durant les 2 heures
+- Inscription aux trois ateliers faite par le comité de pilotage sur une base aléatoire ou en accord avec l'équipe du thème.
 
-3 : 18 janvier ou 25 janvier
 
-4 : 15 mars ou 22 mars
+## Contenus, délivrables (et pédagogie) du thème 4 {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
-#### Teams :
+- Pédgogie (intentions)
 
-mardis soirs 17h00 à 19h00
+   - Faciliter le transfert à la pratique
+   - Correspondre aux besoins réels du moment
+   - Encourager la pénétration des contenus dans des communautés vives de pratiques
 
-#### vignette clinique
+- Contenus
 
-3 à 6 ateliers en fonction du monde.
+   - *selon discussion du CS*
+   
+- Délivrables
 
-Une seule option
+   - A choix à partir de 2 variantes
+   - *selon discussion du CS*
 
-Ecole de commerce de Martigny ?
 
-17h00 - 19h00 (on a regardé les trains)
+## Equivalences {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
-Les jeudis : 
+### Processus : 
 
-1 : 29 septembre
+- Le responsable de la formation monte la demande, émet un préavis, communique
+- Le CS décide
+- Via Teams
 
-2 : 24 novembre
+## Prochaines étapes : {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
-3 : 16 février 
+- Fixation des horaires des sessions 2 et 3 (**avant fin juin 2022**)
 
-4 : 20 avril
+- Fixation des équipes et engagements financiers de la session 1 (**avant mi-août 2022**)
 
-:::
+- Démarrage **31 août 2022**
 
-## Communication {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
+   - Conférence Thème 1 par IPC
+   - 14h30 à 17h00
+   - Aula de la Tuilerie, St-Maurice
+   - Mot d'accueil de l'OES
+   - Mot technique du responsable de la formation
 
-- Demande de NO GO le 25 avril 2022
-- Obtention d'un GO le 27 avril 2022
-- Publication le 3 mai 2022 via les directions
-- Ouverture des inscriptions le 25 mai 2022
-
-Vitrine de la formation FOCUS : [hepvs.ch](https://hepvs.ch/formation-continue-enseignants/cours-obligatoires/formation-focus)
-
-## Prochaines étapes pour le CS {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
-
-- 12 mai : figer les dates de la session 1
-- selon les rythmes et échéances : 
-    - figer les équipes
-    - préparer les contenus
-- Prochaine rencontre du CS :
-    - après la pause estivale 
-    - opérationnel : par Nicolas
 
 ## Divers {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
-## &#x1F64F; Merci !
+&#x1F64F; Merci !
 
 . . . 
 
-<small>
 Crédits Photo par ordre d'apparition :
 
 [Paul Skorupskas](https://unsplash.com/photos/7KLa-xLbSXA)
-
-Adobe Stock
-</small>
 
 
 
