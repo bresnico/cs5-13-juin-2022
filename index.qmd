@@ -86,6 +86,8 @@ title-slide-attributes:
 ## Prochaines étapes : {background-image="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-size="cover" background-opacity="0.5" .scrollable}
 
 - Fixation des horaires des sessions 2 et 3 (**avant fin juin 2022**)
+   - [Session 2 en consultation](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=41551bd371bd4365a20937bca9ab20d1)
+   - [Session 3 en consultation](https://bresnico.notion.site/1eb327c812274cee988ee35c1c5d6c1b?v=f4395c8c3b934e5ca9fc9735d37c1a09)
 
 - Fixation des équipes et engagements financiers de la session 1 (**avant mi-août 2022**)
 
